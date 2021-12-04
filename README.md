@@ -1,13 +1,13 @@
 
-morphic.js
+morphic.py
 
-a lively Web-GUI
+a lively GUI
 inspired by Squeak
 
-written by Jens Mönig
-jens@moenig.org
+written by Jens Mönig and WarpedWartWars
+jens@moenig.org, *none*
 
-Copyright (C) 2010-2021 by Jens Mönig
+Copyright (C) 2010-2021 by Jens Mönig and WarpedWartWars
 
 Morphic.js is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as
@@ -22,5 +22,5 @@ GNU Affero General Public License for more details.
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-Want to use Morphic.js but scared by the open-source license? Get in touch,
+Want to use Morphic.py but scared by the open-source license? Get in touch,
 we'll make it work.
